@@ -61,7 +61,7 @@ I hold a 2nd Dan in kendo 🗡️ Some tournaments along the way:
 * 🥉 2017: 3rd place, Youth Kendo Championship
 * 🥇 2018: 1st place, FCHK Team Tournament (1st to 2nd Dan)
 * 🥉 2018: 3rd place, FCHK Individual Tournament (1st to 2nd Dan)
-* 🥇 2019: 1st place, FCHK National Team Championship
+* 🥇 2019: 1st place, FCHK National Team Championship (1st to 2nd Dan)
 * 🥈 2019: 2nd place, JICA Cup (FCHK)
 * 🥉 3rd place, Arcos Budokan National Team Tournament
 
