@@ -1,11 +1,11 @@
 <h1 align="center">Hi / hola 👋</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ZoccolaM\&style=flat-square\&theme=tokyonight" />
-  <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-script-276DC3.svg?style=flat\&logo=R" /></a>
-  <a href="https://www.linkedin.com/in/manuel-zoccola-cisterna-064188409"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat\&logo=linkedin\&logoColor=white" /></a>
-  <a href="https://orcid.org/0009-0007-5793-1681"><img src="https://img.shields.io/badge/ORCID-0009--0007--5793--1681-A6CE39.svg?style=flat\&logo=orcid\&logoColor=white" /></a>
-  <a href="mailto:manuel.zoccola@uc.cl"><img src="https://img.shields.io/badge/Email-UC-c8102e.svg?style=flat\&logo=gmail\&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ZoccolaM&style=flat-square&theme=tokyonight" />
+  <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-script-276DC3.svg?style=flat&logo=R" /></a>
+  <a href="https://www.linkedin.com/in/manuel-zoccola-cisterna-064188409"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0007-5793-1681"><img src="https://img.shields.io/badge/ORCID-0009--0007--5793--1681-A6CE39.svg?style=flat&logo=orcid&logoColor=white" /></a>
+  <a href="mailto:manuel.zoccola@uc.cl"><img src="https://img.shields.io/badge/Email-UC-c8102e.svg?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## About me
