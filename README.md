@@ -2,7 +2,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZoccolaM&style=flat-square&theme=tokyonight" />
-  <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-script-276DC3.svg?style=flat&logo=R" /></a>
   <a href="https://www.linkedin.com/in/manuel-zoccola-cisterna-064188409"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0007-5793-1681"><img src="https://img.shields.io/badge/ORCID-0009--0007--5793--1681-A6CE39.svg?style=flat&logo=orcid&logoColor=white" /></a>
 </p>
